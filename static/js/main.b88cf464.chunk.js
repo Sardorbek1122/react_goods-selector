@@ -1,2 +1,0 @@
-(this["webpackJsonpreact_goods-selector"]=this["webpackJsonpreact_goods-selector"]||[]).push([[0],{10:function(e,t,c){"use strict";c.r(t);var s=c(3),r=c.n(s),n=(c(1),c(8),c(0)),o=["Dumplings","Carrot","Eggs","Ice cream","Apple","Bread","Fish","Honey","Jam","Garlic"],a=function(){return Object(n.jsxs)("div",{className:"App",children:[Object(n.jsx)("h1",{children:"Selected good: -"}),o.length]})};r.a.render(Object(n.jsx)(a,{}),document.getElementById("root"))},8:function(e,t,c){}},[[10,1,2]]]);
-//# sourceMappingURL=main.b88cf464.chunk.js.map
